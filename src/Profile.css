@@ -1,0 +1,63 @@
+.attendance {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background: white;
+    border-radius: 10px;
+}
+
+.table thead tr {
+    color: white;
+    background: blue;
+    text-align: left;
+    font-weight: bold;
+}
+
+.table th,
+.table td {
+    padding: 12px 15px;
+
+}
+
+.table tbody tr {
+    border-bottom: 1px solid white;
+}
+
+.table tbody tr:last-of-type {
+    border-bottom: 2px solid blue;
+}
+
+.table tbody tr {
+    color: green;
+    background: yellow;
+}
+
+.list1 {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background: white;
+    border-radius: 10px;
+}
+
+.list thead tr {
+    color: white;
+    background: blue;
+    text-align: left;
+    font-weight: bold;
+}
+
+.list th,
+.list td {
+    padding: 12px 15px;
+
+}
+
+.list tbody tr {
+    border-bottom: 1px solid white;
+}
+
+.list tbody tr {
+    color: green;
+    background: yellow;
+}
